@@ -36,7 +36,9 @@ Tip: Set the limit for the user input to a maximum of 100.
 
 Push your project to GitHub!
 
-*Extra credit*
+
+**Extra credit**
+
 
 Transform the behavior of a square when interacting with the mouse by introducing a series of modifications.
 
